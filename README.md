@@ -1,7 +1,6 @@
 # 🙋‍♂️ About Me:
 Hello! I'm Yağız ŞAHİNLER, a Game Developer with Unity.<br>
 Studied Computer Engineering at Süleyman Demirel University, Turkey<br>
-Currently undergoing Unity Game Developer training at the  Google Game and Application Academy.
 Graduated from Unity Game Developer Training at Google Game and Application Academy.
 
 # 💻 Tech Stack:
